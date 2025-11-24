@@ -88,7 +88,7 @@ Pré-requisitos: Node.js e VS Code instalados, Git, e permissões de admnistrado
 
     **Clone o repositório:**
 
-**git clone [https://github.com/SEU-USUARIO/gerenciador-tarefas.git](https://github.com/SEU-USUARIO/gerenciador-tarefas.git)**
+**git clone https://github.com/LeonardoGurgelAlves/Gerenciador-de-tarefas-CRUD-**
 cd gerenciador-tarefas
 
 **Instale as dependências:**
@@ -104,7 +104,7 @@ cd gerenciador-tarefas
 **Snippet de código .env:**
 
 **PORT=3000**
-**DB_CONNECTION_STRING=mongodb+srv://USUARIO:SENHA@cluster...**
+**DB_CONNECTION_STRING=mongodb+srv://"USUARIO:SENHA"@cluster...**
 
 **Iniciar o Servidor:**
 
@@ -113,4 +113,4 @@ cd gerenciador-tarefas
 **Acesse o Navegador(Edge,Chrome,Firefox e etc..) e abra: http://localhost:3000**
 
 ---
-**Desenvolvido por:** Leonardo Gurgel(linkgit) e Yorran Barroso(linkgit).
+**Desenvolvido por:** Leonardo Gurgel(https://github.com/LeonardoGurgelAlves) e Yorran Barroso(https://github.com/Yorranbs).
